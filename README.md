@@ -9,7 +9,7 @@
 <div>
   <a href=file:///C:/Users/RPRG/Desktop/23m1.py target"_blank"><img align="center" height="30" weidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <div>
-   <a href="https://www.linkedin.com/in/rafaela-rafa-7189bb35b/" target"_blank"><img align="center" height="30" weidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+   <a href="www.linkedin.com/in/rafaela-silva-7189bb35b" target"_blank"><img align="center" height="30" weidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   
           
           
