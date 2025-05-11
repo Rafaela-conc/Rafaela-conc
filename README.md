@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rafaela-conc
 - 👀 I’m interested in tecnology, nature and learning new languages
 - 🌱 I’m currently learning computer science and french
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lived in USA for a year
 
